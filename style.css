@@ -1,0 +1,56 @@
+.titleClass
+{
+    font-family:'Open Sans';
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.home
+{
+    background-image: url(Images/Главное\ фото.png);
+    width: 1460px;
+    height: 1000px;
+    background-repeat:no-repeat;
+}
+.menu
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: azure;
+    font-size: 20px;
+    padding-top: 5%;
+    padding-left: 5%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.logo
+{
+    text-align: left;
+}
+.frame1
+{
+    text-align: center;
+    display: flex;
+    padding-right: 5%;
+    gap: 15px;
+}
+.hero
+{
+    color: #fff;
+    text-align: center;    
+}
+h1
+{
+    margin-top: 90px;
+    font-size: 62px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+span 
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
